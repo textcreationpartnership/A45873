@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A confutation of a late paper entituled, An answer to the Lords protestation in a letter to a gentleman.</title>
+            <author>W. J.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45873</idno>
+            <idno type="STC">Wing I17</idno>
+            <idno type="STC">ESTC R7817</idno>
+            <idno type="EEBO-CITATION">12815474</idno>
+            <idno type="OCLC">ocm 12815474</idno>
+            <idno type="VID">94137</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45873)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94137)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 385:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A confutation of a late paper entituled, An answer to the Lords protestation in a letter to a gentleman.</title>
+                  <author>W. J.</author>
+                  <author>England and Wales. Court of King's Bench.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.D.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Respecting the trial of E. Fitzharris. Cf. BM.</note>
+                  <note>Caption title.</note>
+                  <note>Signed: W.J.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fitzharris, Edward, 1648?-1681.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:94137:1"/>
+            <pb n="1" facs="tcp:94137:1" rendition="simple:additions"/>
+            <head>A CONFUTATION OF A Late PAPER, ENTITULED, AN ANSWER TO THE Lords Proteſtation.</head>
+            <head type="sub">IN A LETTER to a GENTLEMAN.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have Received Yours, where you tell me, <hi>You are highly ſatisfy'd, that the Lords did only what they ought to have done, in Rejecting the Impeachment of Mr.</hi> Fitz-Harris; And this you have Gathered out of a Little Paper your Nephew ſent you, Entituled, <hi>An Anſwer to the Lords Proteſtation.</hi> Now Sir, to Undeceive You as well as many others, on whom 'tis like that Paper might prevail, I have written this following Diſcourſe, where I ſhall not under<g ref="char:EOLhyphen"/>take to Strip every Word or Sentence, but only Confute thoſe more conſi<g ref="char:EOLhyphen"/>derable Arguments, by which the Author would have us think, He hath not only proved it lawful for the Lords to Reject, but almoſt unlawful for them to Receive the Impeachment.</p>
+            <p>In the firſt Place he ſays, <hi>The Parliament is the moſt High Court of the Nation; and then, 'tis Rational to think, That any Crime whatſoever doth not fall under the Cogniſance of it.</hi>
+            </p>
+            <p>That the Parliament is the Higheſt Court of the Nation is very true; And 'tis as true, That the Commons have right to Impeach any Subject for Treaſons or Crimes whatſoever, that concern the King or Kingdom; 'Tis not to be ſuppoſed. That by theſe words <hi>any Crimes,</hi> the Proteſtation means <hi>all Crimes,</hi> ſuch as <hi>Felonies, Treſpaſſes, Aſſault</hi> and <hi>Battery,</hi> which indeed fall not under the Cogniſance of Parliament, but ſuch only that Concern the Kingdom, as this of <hi>Fitz-Harris</hi> doth, and for which Impeachments are uſually brought, ſo that this is a Crime that concerned the whole Nation; It did Entitle the whole Nation to a proſecution of it, and then for the Lords to hinder this Suit, was certainly a Denial of Juſtice to the whole Nation.</p>
+            <p>
+               <hi>But if this ſhould be admitted, in a ſhort time the Juriſdiction of other Courts
+<pb n="2" facs="tcp:94137:2"/>would fall to the Ground, and it may be ſuppoſed, the Lords would think it neceſſary to have Perpetual Parliaments for determining Crimes of the loweſt Nature.</hi>
+            </p>
+            <p>Very well, Sir, that becauſe the Lords Aſſert a Right in the <hi>Houſe of Com<g ref="char:EOLhyphen"/>mons</hi> of Impeaching for any Crimes that Concern the Kingdom, that they do alſo Aſſert, That all Offences that lie at the Suits of particular Perſons ſhould alſo be Tried by Way of Impeachment; ſo that by our Authors Inference one would think, that the Lords Proteſtation did mean, That none ſhould be burned in the Hand or Whipp'd, but ſuch as were Impeach'd by Parliament; Which is as far from the meaning of thoſe Noble Lords, as our Author is from Truth and Ingenuity, in ſaying, That they would think it neceſſary to have continual Parliaments for the determining all Crimes, becauſe they would have an Impeachment proſecuted according to the uſual Practice of Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>
+               <hi>But if this be a valid Reaſon againſt the Lords for Rej<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cting the Impeachment; it infers a Right of Trying all Treaſons in Parliament, becauſe they Influence the Par<g ref="char:EOLhyphen"/>liament, and are beſt determined in Parliament.</hi>
+            </p>
+            <p>No, I think not, it only infers a Right of Trying ſuch Treaſons in Parlia<g ref="char:EOLhyphen"/>ment as ought there to be Tried, ſuch as ſhall lie under an Impeachment, not ſuch as are by Way of Indictment, which the very Proteſtation proves; for the Reaſon why the Lords Proteſted, was not becauſe it was a Treaſon, but becauſe it was proſecuted by thoſe that could do it no where but in Parlia<g ref="char:EOLhyphen"/>ment; And to ſtop Proſecution there did quite incapacitate them of proſe<g ref="char:EOLhyphen"/>cuting; And if ſtopping of all Proſecution be not a denial of Juſtice to the Parties proſecuting, I do not know what is.</p>
+            <p>
+               <hi>If there were any force in this Argument, the Right of Trying High Treaſons was never underſtood before this time, for there have been Traitors Triedout of Par<g ref="char:EOLhyphen"/>liament.</hi>
+            </p>
+            <p>Sure our Authors Intellectuals at the Compiling this Work were indiſpos'd with ſome <hi>Vertigo,</hi> otherwiſe he could not have ſo Egregiouſly miſtaken the Senſe of the Proteſting Lords, as to think that by their Proteſtation they did mean, That the right Way of Trying Treaſons was only in Parliament; Whereas it is clear from what they did, that they did only mean ſuch Offen<g ref="char:EOLhyphen"/>ces are to be Tried in Parliament as are Proſecuted by the Commons, that can do it no where elſe.</p>
+            <p>
+               <hi>By</hi> Magna Charta <hi>no Man is to be Condemned but by lawful Judgement of his Peers.</hi>
+            </p>
+            <p>So that to Try a Commoner in Parliament, when the Lords are not his Peers, is contrary to <hi>Magna Charta,</hi> and highly unlawful; Indeed, if <hi>Magna Charta</hi> did ſay juſt as he doth it would be ſo; But <hi>Magna Charta</hi> not only ſays, That no Man ſhall be Condemned but by lawful Judgement of his Peers, but it alſo ſays <hi>Or by the Law of the Land;</hi> So that there may be a lawful Trial of a Commoner, and according to <hi>Magna Charta,</hi> and not by his Peers, the Dis<g ref="char:EOLhyphen"/>junctive proves; and that the Law of impeachment is the Law of the Land, and not contrary to <hi>Magna Charta;</hi> All muſt confeſs, when they conſider how many there have been Tried of the Commons by way of Impeachment, ſince the making of <hi>Magna Charta,</hi> and not the leaſt Objection made againſt the Lawfulneſs of the Proceeding, till our Authors Brains were delivered of this Brat; But pray mark the diſingenuity of the Perſon, in endeavoring to impoſe on the World, by Mincing the Quotation, taking the Words that ſerve
+<pb n="3" facs="tcp:94137:2" rendition="simple:additions"/>for his Turn, <hi>viz. By lawful Judgement of his Peers,</hi> and leaving out the words, <hi>By the Law of the Land;</hi> As if theſe were not as much of <hi>Magna Charta</hi> as the former.</p>
+            <p>
+               <hi>'Tis the Opinion of Lawyers, that Acts made againſt the Fundamental Laws, of which Trials by Peers is One, are in themſelves void.</hi>
+            </p>
+            <p>So that it ſeems the Powers that laid theſe Fundamentals were greater then the preſent Powers, elſe Acts now made would be binding; But where was that Power Lodged, either in the King by Himſelf, or in Him Joyn'd with his Parliament; Now 'tis impoſſible, that the King ſhould have more Power without then he hath with his Parliament; And 'tis as irrational to ſay, That the King hath not as much Power now as in the time of <hi>Henry</hi> the Third, ſo that now there being as great Power in an Act of Parliament as ever, it clearly follows, That thoſe Fundamentals may be altered.</p>
+            <p>
+               <hi>'Tis dangerous and againſt the Liberty of</hi> Engliſh men, <hi>to Admit of Trials with<g ref="char:EOLhyphen"/>out</hi> Juries; <hi>Innocents may be Harangued to Death by their Proſecutors, and the vilest Criminals ſaved by the ſame means; Witneſſes may Influence by Paſſionate Expreſſions to Contract or Dilate their Evidence.</hi>
+            </p>
+            <p>All this Amounts to a very high Reflection on the Parliament, intimating, That there is not as much Juſtice as in Trials by Juries, that there the Inno<g ref="char:EOLhyphen"/>cent are liable to be Harangued into a Halter, and Delinquents to be ſaved by Taking Orations; Then it ſeems the Lord <hi>Stafford</hi>'s Head was Harangued off his Shoulders; for his being a Peer doth not alter the uſual Juſtice of the Court. Surely, if the People was as knowing as our Author, they would Pe<g ref="char:EOLhyphen"/>tition for an Act againſt Impeachments, it being as he ſaith, a Proceeding At<g ref="char:EOLhyphen"/>tended with a great deal of Injuſtice and Partiality.</p>
+            <p>
+               <hi>But if the Commons deſire to Impeach a Commoner, may they do it? Yes, if the Lords are willing; for they are not Obliged to Paſs Judgment on any againſt their Wills but their Peers, as 'tis Proved from the Caſe of</hi> Bereford, Gournay, <hi>and O<g ref="char:EOLhyphen"/>thers who in the</hi> 4th. <hi>of</hi> Edward the Third, <hi>had Judgment Paſs'd on Them by the Lords. And afterwards it was Accorded by the King and all the Grands, That al<g ref="char:EOLhyphen"/>beit the Peers as Judges of Parliament, took upon Them to make and render the ſaid Judgment, yet that the Peers ſhall not for the future be bound to Render Judgment on any but their Peers.</hi>
+            </p>
+            <p>
+               <hi>This</hi> Proviſo <hi>was made in full Parliament with theſe two Reſpects.</hi>
+            </p>
+            <p n="1">1. <hi>To ſatisfie the Commons that they intended not by their Judgment to Alter the Courſe of the Common Law, and therefore they declar'd againſt Power to do this, and Confeſs'd it was contrary to the Law of the Land.</hi>
+            </p>
+            <p n="2">2. <hi>To Preſerve their own Rights to Judge none but their Peers, in Caſe of Life and Death.</hi>
+            </p>
+            <p>So then, this Preſident is urged as an Argument to prove, That the Reject<g ref="char:EOLhyphen"/>ing of the Impeachment was lawful; But let us conſider whether the Caſe of <hi>Bereford</hi> and the reſt be the ſame with the Caſe of <hi>Fitz-Harris;</hi> If it be, the Author hath ſurely overturn'd the Proteſtation; If it be not, it will no ways ſerve his turn, <hi>Bereford</hi> by the Command of the King was brought into Parliament, and there had Judgment at the Kings Suit, which by the Way was very Illegal; for all Indicted ought to be Tried by their Peers; <hi>Fitz-Harris</hi> was Impeached by the <hi>Commons,</hi> and at their Suit could be Tried no where but in Parliaments; And now that theſe two Caſes are not the ſame is very clear; And if not the ſame, then our Author cannot from hence infer, That the Rejectment was lawful, for when a Preſident is brought for a Proof,
+<pb n="4" facs="tcp:94137:3"/>the Preſident muſt always be the ſame with the thing that's to be proved; Now ſeeing the Caſe of <hi>Bereford</hi> and <hi>Fitz-Harris</hi> is not the ſame, it neceſſarily follows, that nothing can be inferr'd from the Caſe of <hi>Bereford,</hi> to the Caſe of <hi>Fitz-Harris;</hi> And indeed 'tis to me very ſtrange, That becauſe the Lords Ac<g ref="char:EOLhyphen"/>corded, that they would not be Obliged to try a Commoner, which ought to be Tried at the Common Law, our Author ſhould infer, That they are not likewiſe obliged to Try a Commoner, when he is proſecuted at that Suit that can be Tried no where but before the Lords in Parliament; This is to make an Indictment and Impeachment the ſame; And if ſo, then an Indict<g ref="char:EOLhyphen"/>ment may be found by the Commons in Parliament, and an Impeachment may be brought out of Parliament; To Aſſert which, would be the higheſt of Non-ſenſe; And indeed I ſhould ſuſpect that Man to be of a diſtempered Un<g ref="char:EOLhyphen"/>derſtanding that ſhould affirm it; 'Tis yet more apparent, this can no ways prejudice an Impeachment, for that was done to aſſure the Commons the Lords intended not to alter the Courſe of the Common Law; Thence it fol<g ref="char:EOLhyphen"/>lows, That the Subject-matter of that Act was ſuch as ought to have been Tried at the Common Law, of which an Impeachment is no part; And con<g ref="char:EOLhyphen"/>ſequently, could not be concern'd in this Act of the Lords.</p>
+            <p>
+               <hi>But it may be Preſumed, that if the Commons ſhould force an Impeachment on the Lords againſt a Commoner, that may be Tried at the Common Law, and Vote that it ought not to be Tried in an Inferiour Court, Men may be apt to think it is a de<g ref="char:EOLhyphen"/>ſign to delay Juſtice, or to get a Pardon.</hi>
+            </p>
+            <p>Indeed I really think, that what induced the <hi>Houſe of Commons</hi> to this Im<g ref="char:EOLhyphen"/>peachment was not a pure deſign of Proſecution, but becauſe, they would create an Opportunity of making a farther Diſcovery of the Deſign <hi>Fitz-Harris</hi> was engag'd in; But let the Motive be what it will, the Proſecution is ſtill the ſame, the Impeachment alters not whether the Commons did it with a deſign of Proſecuting or Diſcovering; I ſhall paſs by the Statute he quotes, for it can no ways be applicable to our Buſineſs, becauſe it only lays down the manner of Proceeding on Trials out of Parliament.</p>
+            <p>
+               <hi>But for the Lords to ſay, That an Impeachment and an Indictment are two dif<g ref="char:EOLhyphen"/>ferent Suits is a meer Quibble; for whether this Criminals Trial be by Indictment or Impeachment 'tis the ſame Accuſation; namely for</hi> Treaſon; <hi>And the Proſe<g ref="char:EOLhyphen"/>cution in both Courts (which is really and truly the Suit) is for the ſame End and Purpoſe, that is, the Puniſhment of the Delinquent.</hi>
+            </p>
+            <p>I am highly ſorry, to ſee a Man of great Knowledge and Underſtanding, as the Reputed Author of this paper is ſaid to be, ſo ſtrangely Halt in his Intel<g ref="char:EOLhyphen"/>lectuals, as to Aſſert that there is no difference betwixt an Indictment and an Impeachment, becauſe they are both Accuſations, and both tend to the ſame End, namely, the Puniſhment of the Delinquent; So then, according to our Author, two Ways that lead to <hi>London,</hi> one of which comes from the North, and the other from the South, are not really two different Ways, becauſe they are both Ways, and both tend to the ſame End. Yet I believe, there is no Traveller, but would really think theſe Ways do plainly differ, notwithſtand<g ref="char:EOLhyphen"/>ing they are both Ways, and both lead to the ſame place; And I believe, there is no Lawyer but our Author, but thinks an Impeachment and an Indictment two different Suits, notwithſtanding they are both Accuſations, and both tend to the ſame thing, namely, the puniſhment of the Delinquent; for that that makes them differ, is not becauſe they are both Accuſations, and aim both at the ſame End, but becauſe the Parties proſecuting do it for different Reaſons,
+<pb n="5" facs="tcp:94137:3"/>one for Himſelf, the other for the King; And ſeeing to proſecute for the King and for ones ſelf is not the ſame thing, it clearly follows, that an Indictment and an Impeachment do really differ; And if ſo, then what the Lords Aſſert<g ref="char:EOLhyphen"/>ed in their Proteſtation is not a meer Quibble.</p>
+            <p>
+               <hi>But the Ground of the wonderful Reaſon is the different uſe of the two Words,</hi> Impeachment <hi>and</hi> Indictment, <hi>both which ſignifie an Accuſation, and the deſign of both is the ſame, and it matters not, whether Puniſhment be by the Lords or by the Judges at</hi> Common Law, <hi>but the moſt equal Way will be by his Peer<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> by whom he may have the moſt equal Condemnation or Acquittal, there being not the Preſident that comes up to, or is parallel with this Caſe.</hi>
+            </p>
+            <p>That an Indictment and an Impeachment do both ſignifie an Accuſation, is true; And 'tis as true, that they are different Accuſations, for one is the Kings, and the other the Peoples; And ſeeing an Act of the King do really differ from that of the People, it follows, that an Indictment and an Impeach<g ref="char:EOLhyphen"/>ment are two different Suits; And indeed it had been no great matter, whe<g ref="char:EOLhyphen"/>ther <hi>Fitz-Harris</hi> be Condemned in or out of Parliament, had not the Com<g ref="char:EOLhyphen"/>mons by their Impeachment Entitled themſelves to his Proſecution, for by this Act they made it their Suit; And although the Delinquent may be pu<g ref="char:EOLhyphen"/>niſhed elſewhere, yet this is no ſatisfaction to them, becauſe not done at their Proſecution; So that the Reaſon why the Lords Proteſted, was not becauſe they thought Trials in Parliament, purely Conſidered, more Legal then thoſe out of Parliament, but becauſe the Delinquent was now Proſecuted at the Suit of the Commons, who could do it no where but in Parliament, and to hinder Proſecution there, was to ſtop all Proſecution to them, which certainly is Injuſtice.</p>
+            <p>Indeed I muſt Concur with our Author, that Trials by Peers is moſt Legal out of Parliament; But if he means that 'tis the only Legal Way of Trying Commoners, I cannot be of his Opinion; for I believe Trials by Impeach<g ref="char:EOLhyphen"/>ment before the Lords; are as lawful and as juſt as Trials by Juries, and the Lords as tender in Giving Judgment, notwithſtanding they are not upon Oath, as the Juries are, of their Verdicts; But what our Author means by theſe words, <hi>There being not one Preſident Parallel with this Caſe,</hi> I cannot tell, if he means, <hi>That there never was a Caſe Parallel with the Caſe of</hi> Fitz-Harris, that is, <hi>the Impeachment of a Commoner;</hi> Be ſure he hath Conſulted no other Hi<g ref="char:EOLhyphen"/>ſtory but <hi>Tom Thumb</hi> or <hi>Guy of Warwick,</hi> for every Kings Reign abounds with Examples of this Nature, and always thought both juſt and legal.</p>
+            <p>
+               <hi>The Caſe of an Appeal, if rightly underſtood, ſignifies nothing, for who Sues an Appeal muſt Sue it in proper Perſon, and to make an Impeachment of the Commons the ſame with this Caſe, it must be made appear by Preſidents out of the Parliament Rolls, or Journals, or by the Common or Statute Law, that the Commons have ſuch an Action or Suit, as an Impeachment of a Commoner for Treaſon, which may be Tried in an Inferior Court, given them before the Lords, ſo as they cannot refuſe to hear or judge it, or they do nothing.</hi>
+            </p>
+            <p>That there is a great Parity betwixt an Appeal and an Impeachment no Man can rationally doubt, in that they are both at the Suit of the Party proſecuting, for an Impeachment is in the Name of the Houſe of Commons, and all the Commoners of <hi>England;</hi> The Proſecution is by themſelves for themſelves, and in their own Names do they demand Judgement, which would be very unmannerly if the Suit was not their own; Now I cannot Conceive how it
+<pb n="6" facs="tcp:94137:4"/>it ſhould conſiſt either with Law or Reaſon, that they ſhould demand Judge<g ref="char:EOLhyphen"/>ment on a Perſon, if he was not proſecuted at their Suit, ſo that though it cannot be made appear, that the Commons have ſuch a Suit as an Impeach<g ref="char:EOLhyphen"/>ment of a Commoner for High Treaſon, which may be Tried in an Inferiour Court; yet 'tis clear that there is a great Similitude betwixt an Impeachment and an Appeal, in that they are both at the Suit of the Party, and then this in<g ref="char:EOLhyphen"/>ſtance of an Appeal will ſtand the Lords in ſome ſtead; for by this it appears, that the Offence for which <hi>Fitz-Harris</hi> is Accuſed, may be Proſecuted at two ſeveral Suits, One by the King out of Parliament, and another by the Com<g ref="char:EOLhyphen"/>mons in Parliament; ſo that there being two diſtinct Proſecutions of the ſame Offence, it follows alſo that there are two diſtinct Judgments, ſo that the Offence may be proſecuted and puniſhed at one Suit, yet this is no ſatisfaction to the other; And then <hi>Fitz-Harris</hi> may be Tried, Condemned and Hanged upon an Indictment; And yet this is no ſatisfaction to the Houſe of Com<g ref="char:EOLhyphen"/>mons, becauſe they had no intereſt in that Suit; and where they had no In<g ref="char:EOLhyphen"/>tereſt, they cannot be ſaid to receive ſatisfaction.</p>
+            <p>So then, to what our Author and many more do ſay, who Plead up for the Lawfulneſs of Rejecting the Impeachment, that it is no denial of Juſtice to the Houſe of Commons to hinder their Proſecution, becauſe that very Of<g ref="char:EOLhyphen"/>fence which they would puniſh may be puniſhed elſewhere, is highly falſe, for the Puniſhment of it there doth nothing reſpect the Suit of the Commons, and then certainly there can be no ſatisfaction; And ſeeing the Law hath made two diſtinct Proſecutions of the ſame Offence, ſo that the proſecution at one Suit, is not the proſecution at the other; It doth alſo neceſſarily ſuppoſe, that there are two diſtinct Parties that may proſecute at their two diſtinct Suits, ſo that one proſecuting and receiving ſatisfaction, is no ſatisfaction to the other; for if it was, the Law would <hi>Fruſtra agere,</hi> in permitting two Suits when one would ſatisfie all, <hi>Nam fruſtra fit per Plura, quod poſſit fieri per pau<g ref="char:EOLhyphen"/>ciora.</hi>
+            </p>
+            <p>
+               <hi>Well, but it was no denial of Juſtice to deliver up <hi>Drake</hi> to the Common Law, and therefore can be none to deliver up <hi>Fitz-Harris.</hi>
+               </hi>
+            </p>
+            <p>Indeed I concur with our Author, that the Lords delivering up <hi>Drake</hi> to be proſecuted at the Common Law was no denial of Juſtice; yet that it was a denial of Juſtice to Reject this Impeachment, is clear for this Reaſon, for here the Commons required Juſtice, and in the firſt they did not, but let their Suit fall; And where the Commons do not require Juſtice, there the Lords cannot be ſaid to deny it; But on the contrary, when the Commons require the Proſecution of a Delinquent, then for the Lords to deny it, is without doubt a denial of Juſtice; So that the Denial of Juſtice doth not purely con<g ref="char:EOLhyphen"/>ſiſt in the Lords delivering over the Suit of the Commons, but their doing it when the Commons require Proſecution of it in Parliament; Then ſeeing in <hi>Drake</hi>'s Caſe, the Commons required not any proſecution, and in the Caſe of <hi>Fitz-Harris</hi> they did require it; it follows, that in the firſt Caſe it was not, and in the latter it was a denial of Juſtice for the Lords to throw out the Im<g ref="char:EOLhyphen"/>peachment; Beſides, there is a great difference betwixt the not receiving an Impeachment, and the removing it when it was for ſome time Lodged; for in the latter Caſe the Suit is Revived, and if the Commons do not proſecute 'tis their fault, but in the firſt Caſe the Suit is abſolutely Rejected, which is the Act of the Lords; Then ſeeing there is ſo great a diſparity betwixt the Caſes of
+<pb n="7" facs="tcp:94137:4"/>
+               <hi>Drake</hi> and <hi>Fitz-Harris,</hi> this inſtance will ſtand our Author in ſtead, for as I have already ſaid, He that quotes a Preſident for a Proof, muſt always prove the Preſident to be the ſame with the thing that's to be proved, for <hi>A diſpari non valet Argumentum.</hi>
+            </p>
+            <p>I have now done with our Author, I ſhall only add a word more, If the Commons have a right to Impeach, it follows, they have a right to proſecute; and this muſt be before the Lords, then ſure the Lords Rejecting their Suit was the denying them what was their right, and this certainly is a denial of Juſtice: But ſome ſay, <hi>They have a Kight if the Lords pleaſe,</hi> ſo that this Right depends on the Will of the Lords; but this is falſe, for their Rights, of which Impeaching is one, are Founded on the Ancient Practice of Parliament, and not on the Will of the Lords; And ſeeing the Lords cannot alter the Practice of Parliament, where the Commons are concerned, without a breach of the Law of Parliaments, it more ſtrongly follows that this was Injuſtice. But 'tis Objected, <hi>That if the Commons ſhould have this, they might Impeach the whole Nation, and ſo hinder the King of all Proſecution;</hi> That the Houſe may Im<g ref="char:EOLhyphen"/>peach all is poſſible, but that they will is highly improbable; But this cannot hinder the Kings Suit, for if the Commons do not proſecute in any reaſonable time, the Lords may upon Proclamation quit the Priſoner, who is ſtill liable to an Indictment.</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>
+                  <hi>I am</hi> Your Humble Servant. <hi>W. I.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. D.</hi> 1681.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
